@@ -1,2 +1,2 @@
 # Programs
-Lab programs
+programs
